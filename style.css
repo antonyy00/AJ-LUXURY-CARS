@@ -30,7 +30,7 @@ h4{
 }
 img { 
   align-items: center;
-  width: 400px;
+  width: 300px;
   display: block;
   border-style: solid;
   border-radius: 10px;
@@ -54,7 +54,7 @@ img {
 }
 /* Credits */
 h5{
-color:darkgray;  
+color:darkgray; 
 }
 .image{
  display: flex;
