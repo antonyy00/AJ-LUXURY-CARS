@@ -1,0 +1,58 @@
+/*background color*/
+body {
+  background: lightgrey;
+}
+/* Info */
+p {
+  color: black;
+  text-align: center;
+  color: darkred;
+}
+/* NAME */
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+/* Description*/
+h2{
+  text-align: center;
+  color: crimson;
+}
+/* Name of Car */
+h3{
+  text-align: center;
+}
+/* More Info */
+}
+h4{
+  text-align: left;
+/* All Images */
+}
+img { 
+  align-items: center;
+  width: 300px;
+  display: block;
+  border-style: solid;
+  border-radius: 10px;
+}
+/* Specific IMG*/
+.toyota-img{
+  width: 400px;
+  border-color: crimson;
+}
+.honda-img{
+  width: 400px;
+  border-color:crimson;
+}  
+.chevy-img{
+  width: 400px;
+  border-color:crimson;
+}
+.bmw-img{
+  display: flex;
+  align-content: center;
+}
+/* Credits */
+h5{
+color:darkgray;  
+}
